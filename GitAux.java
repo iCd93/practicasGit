@@ -17,7 +17,7 @@ public class GitAux {
     
     public void metodoAlumno2(){
         System.out.println("metodo 2");
-	System.out.println("insertado por alumno2");	//modif alumno 2
+	System.out.println("insertado por alumno2");	//modificado alumno 2
     }
     
     public void metodoComunitario(){
